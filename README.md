@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-KEBA is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://keba.com/
+KEBA provides innovative automation solutions across industrial automation, banking, public services, and energy sectors. Their portfolio includes control panels, HMI interfaces, servo controllers, motors, safety technology, and digital services such as AI assistants and e‑charging solutions. The company focuses on integrating hardware and software to enable efficient, secure, and intelligent automation for factories, ATMs, parcel lockers, and more.
+
+**Areas:** Company · Automation · Industrial · DigitalSolutions · Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://keba.com/)
+- [Documentation](https://www.keba.com/en/home)
+- [API reference](https://api.keba.com/swagger)
+- [Support](https://www.keba.com/en/corporate/contact/sales-service-network/customer-service)
+- [Blog](https://www.keba.com/en/corporate/newsroom/calender-of-events/events)
+- [Security](https://www.keba.com/en/banking-automation/why-keba/security/)
+- [Privacy policy](https://www.keba.com/en/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/keba/](https://apis.io/providers/keba/).
